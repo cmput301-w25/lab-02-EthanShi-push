@@ -3,12 +3,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Ethan Shi
+- **CCID:** yunzhe3
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.youtube.com/watch?v=WwFbzZz4Vtg&list=LL&ab_channel=OriginalCode%27s
 
 ## Verbal Collaboration
 
